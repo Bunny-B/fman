@@ -3,7 +3,7 @@
 
 # **IDA Plugin Sample**
 
-An IDA Pro plugin designed for advanced reverse engineering tasks. This project requires the IDA SDK for compilation and includes a post-build event to deploy the compiled plugin to your IDA Pro installation directory.
+This project requires the IDA SDK for compilation and includes a post-build event to deploy the compiled plugin to your IDA Pro installation directory.
 
 ---
 
